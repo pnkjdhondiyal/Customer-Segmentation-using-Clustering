@@ -1,17 +1,16 @@
-# Customer Segmentation Using Clustering
+This project focuses on Customer Segmentation using Machine Learning (K-Means clustering).
+The main goal is to group customers based on their purchasing behavior and demographics, so businesses can better understand customer needs, improve marketing strategies, and enhance decision-making.
 
-This project segments customers into different clusters based on demographic and spending behavior using KMeans Clustering.
+Additionally, a Streamlit Dashboard is provided for interactive visualization, including 3D clustering plots.
 
-## Technologies Used
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- scikit-learn
+🛠️ Tech Stack
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the project: `python main.py`
-3. Check results in `results/clusters.csv`
+Python 3.x
 
-## Author
-Pankaj Dhondiyal
+Pandas / NumPy → Data Processing
+
+Matplotlib / Seaborn / Plotly → Data Visualization
+
+Scikit-learn → K-Means Clustering, PCA
+
+Streamlit → Interactive Dashboard
